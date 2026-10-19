@@ -1,0 +1,6 @@
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\ModBusRTU\obj\Debug\ModBusRTU.csproj.AssemblyReference.cache
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\ModBusRTU\obj\Debug\ModBusRTU.csproj.CoreCompileInputs.cache
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\ModBusRTU\bin\Debug\NModBusRTU.dll
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\ModBusRTU\bin\Debug\NModBusRTU.pdb
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\ModBusRTU\obj\Debug\NModBusRTU.dll
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\ModBusRTU\obj\Debug\NModBusRTU.pdb

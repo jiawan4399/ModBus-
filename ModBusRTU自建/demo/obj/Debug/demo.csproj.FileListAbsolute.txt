@@ -1,0 +1,14 @@
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\bin\Debug\demo.exe.config
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\bin\Debug\demo.exe
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\bin\Debug\demo.pdb
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\bin\Debug\NModBusRTU.dll
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\bin\Debug\NModBusRTU.pdb
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.csproj.Up2Date
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.exe
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.pdb
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.exe.config
+C:\Users\jiawen\Desktop\C#\作业\闫\ModBusRTU自建\demo\obj\Debug\demo.FrmModBusRTU.resources
